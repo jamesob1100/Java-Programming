@@ -1,0 +1,11 @@
+# Eclipse project metadata
+.classpath
+.project
+.settings/
+
+# Compiled output
+bin/
+*.class
+
+# macOS
+.DS_Store
